@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: 1px solid #4EA8DE;
+}
+
+input::placeholder {
+    margin-left: 1rem;
+}
